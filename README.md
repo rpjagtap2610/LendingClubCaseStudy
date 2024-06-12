@@ -28,9 +28,10 @@ Lending Club Case Study
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+Python
+- Pandas library
+- Numpy library
+- Matplotlib library
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
