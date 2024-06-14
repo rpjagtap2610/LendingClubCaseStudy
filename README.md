@@ -11,18 +11,20 @@ Lending Club Case Study
 <!-- You can include any other section that is pertinent to your problem -->
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+- The project is a Exploratory Data Analysis project that uses the Lending Club Data to identify loan defaulters based on different parameters.
+- This project is an asssignment by Upgrad - Online Learning Platform.
+- The business probem this project is trying to solve is to redude the number of Bad Loans by identifying potential loan defaulters.
+- This is also a very good dataset to pratice Exploratory Data Analysis.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Purpose - We see there are higher count of loans which are taken for debt_consolidation.
+- Grade - The Grade represent risk factor thus we can say interst rate increases with the risk. The Grade A which is lowest risk also has lowest DTI ratio which we can say that higher grade has lower rate of default.
+- Public Recorded Bankruptcy - The brrowers are mostly having no record of Public Recorded Bankruptcy and are safe choice for loan issue.
+- Term - The majority of loan has a term of 36 months compared to 60 months. The 60 month term has higher chance of defaulting than 36 month term whereas the 36 month term has higher chance of fully paid loan.
+- Interest Rate - The default loan amount increases with interest rate
+- Invested Amount - Mean value of funded amount invested is little higher for Charged Off loans.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -32,18 +34,15 @@ Python
 - Pandas library
 - Numpy library
 - Matplotlib library
+- Seaborn
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+- This project was an assignment my Upgrad Online Learning Platform
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [@rpjagtap2610] - feel free to contact me!
 
 
 <!-- Optional -->
